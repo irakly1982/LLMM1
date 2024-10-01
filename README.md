@@ -4,4 +4,4 @@
 
 Ejercicio | Descripcion
 ------|------
-[Ejercicio 1](TEMA1/TEMA1/HTML-IRAKLY.html)|Crea una pagina con HTML
+[Ejercicio 1](TEMA1/HTML-IRAKLY.html)|Crea una pagina con HTML
