@@ -4,4 +4,4 @@
 
 Ejercicio | Descripcion
 ------|------
-[Ejercicio 1](TEMA1/)|Crea una pagina con HTML
+[Ejercicio 1](TEMA1/TEMA1/ej-1 HTML IRAKLY TOPADZE.html)|Crea una pagina con HTML
