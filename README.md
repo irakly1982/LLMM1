@@ -14,5 +14,5 @@ Ejercicio | Descripcion
 [Ejercicio 5](TEMA1/HTML-EJ-5.html)|Crea una página que contenga varios párrafos, con distinta alineación y con encabezados
 [Ejercicio 6](TEMA1/HTML-EJ-6.html)|Modifica la página anterior para incluir distintos formatos de texto.
 [Ejercicio 7](TEMA1/HTML-EJ-7.html)|Cambia los atributos de la página para cambiar el fondo y color. Prueba con las distintas opciones
-[Ejercicio 8](TEMA1/HTML-EJ-8/indice.html)|Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 
+[Ejercicio 8](TEMA1/HTML-EJ-8)|Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 
 [Ejercicio 10](TEMA1/HTML-EJ-10.html)|Write a HTML page with the follow two levels nested list 
