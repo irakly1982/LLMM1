@@ -17,3 +17,4 @@ Ejercicio | Descripcion
 [Ejercicio 8](TEMA1/HTML-EJ-8)|Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 
 [Ejercicio 10](TEMA1/HTML-EJ-10.html)|Write a HTML page with the follow two levels nested list 
 [Ejercicio 11](TEMA1/HTML-EJ-11.html)|Añade los siguientes items al ejercicio anterior
+[Ejercicio 12](TEMA1/HTML-EJ-12.html)|Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta.
