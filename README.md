@@ -6,7 +6,7 @@ Ejercicio | Descripcion
 ------|------
 [Ejercicio 1](TEMA1/HTML-IRAKLY.html)|Crea una pagina con HTML
 [Ejercicio 2](TEMA1/XML-IRAKLY.xml)|Crea un archivo XML con dos libros diferentes
--------------|------------
+------------|------------
 [Ejercicio 1](TEMA1/HTML-EJ-1.html)|Crea una página con el texto facilitado e incluye las etiquetas necesarias
 [Ejercicio 2](TEMA1/HTML-EJ-2.html)|Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.
 [Ejercicio 3](TEMA1/HTML-EJ-3.html)|Usa el texto mostrado y dale el formato siguiendo las indicaciones
