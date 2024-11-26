@@ -19,3 +19,5 @@ Ejercicio | Descripcion
 [Ejercicio 11](TEMA1/HTML-EJ-11.html)|Añade los siguientes items al ejercicio anterior
 [Ejercicio 12](TEMA1/HTML-EJ-12.html)|Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta.
 [Ejercicio 13](TEMA1/HTML-EJ-13.html)|Utiliza un tipo de borde diferente para cada párrafo
+[Ejercicio 14](TEMA1/HTML-EJ-14.html)|Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta y usa unos valores especificos
+[Ejercicio 15](TEMA1/HTML-EJ-15.html)|Crea una tabla
