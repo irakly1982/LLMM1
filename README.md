@@ -21,3 +21,4 @@ Ejercicio | Descripcion
 [Ejercicio 13](TEMA1/HTML-EJ-13.html)|Utiliza un tipo de borde diferente para cada párrafo
 [Ejercicio 14](TEMA1/HTML-EJ-14.html)|Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta y usa unos valores especificos
 [Ejercicio 15](TEMA1/HTML-EJ-15.html)|Crea una tabla
+[Ejercicio 16](TEMA1/HTML-EJ-16.html)|Horario de clase
