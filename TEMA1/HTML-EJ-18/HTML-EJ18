@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+
+        <style>
+
+            table, th, td {
+                border: 1px solid black;
+                width: 33%;
+                text-align: center;
+            }
+
+            #parrafo {
+                text-align: left;
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+        <h1><b>Comparativa de reproductores MP3</b></h1>
+
+        <summary id="parrafo">Tabla comparativa de las caracteristicas de los MP3</summary>
+        <table>
+            <tr>
+                <th></th>
+                <th colspan="3"> <img src="mp3_pequeno_blanco.png" alt="MP3BLANCOPEQ"><img src="mp3_pequeno_negro.png" alt="MP3NEGROPEQ"><br>
+                MP3 Mini</th>
+                <th colspan="2"><img src="mp3_grande_blanco.png" alt="MP3GRANDEBLANCO"><img src="mp3_grande_negro.png" alt="mp3_grande_negro"><br>
+                MP3 Grande</th>
+            </tr>
+
+            <tr>
+
+                <td><b>Capacidad de <br> almacenamiento</b></td>
+                <td>4GB <br>(1.000 <br> canciones)</td>
+                <td>8GB <br>(2.000 <br> canciones)</td>
+                <td>16GB <br>(4.000 <br> canciones)</td>
+                <td>30GB <br>(7.500 <br> canciones)</td>
+                <td>80GB <br>(20.000 <br> canciones)</td>
+
+            </tr>
+            <tr>
+
+                <td><b>Colores</b></td>
+                <td><img src="color_blanco.png" alt="color_blanco"></td>
+                <td><img src="color_negro.png" alt="color_negro"><img src="color_azul.png" alt="color_azul"><img src="color_rosa.png" alt="color_azul"><br><img src="color_verde.png" alt="color_verde"></td>
+                <td><img src="color_negro.png" alt="color_negro"></td>
+                <td colspan="2"><img src="color_blanco.png" alt="color_blanco"><img src="color_negro.png" alt="color_negro"></td>
+
+            </tr>
+            <tr>
+
+                <td><b>Pantalla</b></td>
+                <td colspan="3"> LCD de 3 cm (en diagonal) con <br> retroiluminacion </td>
+                <td colspan="2"> LCD de 6 cm (en diagonal) <br> con retroiluminacion</td>
+
+            </tr>
+            <tr>
+
+                <td rowspan="3"> <b>Tiempo de carga</b></td>
+                <td rowspan="3"; colspan="3"> Unas 3 horas</td>
+
+            </tr>
+            <tr>
+
+                <td colspan="2">Unas 4 horas</td>
+                
+
+            </tr>
+            <tr>
+
+                <td rowspan="2"; colspan="2">Unas 2 horas para <br> alcanzar el 80% de la <br> capacidad</td>
+
+            </tr>
+
+
+        </table>
+
+    </body>
+
+</html>
