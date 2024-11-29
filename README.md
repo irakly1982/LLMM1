@@ -23,3 +23,4 @@ Ejercicio | Descripcion
 [Ejercicio 15](TEMA1/HTML-EJ-15.html)|Crea una tabla
 [Ejercicio 16](TEMA1/HTML-EJ-16.html)|Horario de clase
 [Ejercicio 17](TEMA1/HTML-EJ-17/HTML-EJ17)|Crea una tabla con imagenes
+[Ejercicio 18](TEMA1/HTML-EJ-18/HTML-EJ18)|Crea una tabla con mas elementos
