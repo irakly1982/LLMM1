@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducción a CSS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #3b82f6;
+            color: white;
+            padding: 10px 0;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        img {
+            max-width: 100px;
+            height: auto;
+        }
+        button {
+            background-color: #3b82f6;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #2563eb;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>¿Qué es CSS y cómo se programa?</h1>
+    </header>
+    <main>
+        <section>
+            <p>
+                CSS (Cascading Style Sheets) es un lenguaje utilizado para definir el estilo y diseño visual de las páginas web. 
+                Permite aplicar colores, fuentes, márgenes, tamaños y posiciones a los elementos HTML, transformando estructuras básicas 
+                en diseños atractivos y responsivos.
+            </p>
+            <h2>¿Cómo se programa en CSS?</h2>
+            <p>
+                CSS puede aplicarse de tres formas: en línea, dentro de una hoja de estilo interna en el archivo HTML, 
+                o mediante hojas de estilo externas. Utiliza selectores como <code>body</code> o <code>.clase</code> para aplicar estilos.
+            </p>
+        </section>
+        <h2>Ejemplos en una tabla</h2>
+        <table>
+            <tr>
+                <th>Descripción</th>
+                <th>Ejemplo</th>
+            </tr>
+            <tr>
+                <td>Colores</td>
+                <td><img src="https://via.placeholder.com/100x50?text=Color" alt="Ejemplo de colores"></td>
+            </tr>
+            <tr>
+                <td>Fuentes</td>
+                <td><img src="https://via.placeholder.com/100x50?text=Tipografia" alt="Ejemplo de fuentes"></td>
+            </tr>
+            <tr>
+                <td>Márgenes</td>
+                <td><img src="https://via.placeholder.com/100x50?text=Margenes" alt="Ejemplo de márgenes"></td>
+            </tr>
+        </table>
+        <button onclick="window.open('https://www.w3schools.com/css/', '_blank')">Ir a W3Schools sobre CSS</button>
+        <button><a href="inicio.html"> Volver al inicio</a></button>
+    </main>
+</body>
+</html>

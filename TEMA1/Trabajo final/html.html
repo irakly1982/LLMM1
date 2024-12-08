@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducción a HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        img {
+            max-width: 100px;
+            height: auto;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>¿Qué es HTML y cómo se programa?</h1>
+    </header>
+    <main>
+        <section>
+            <p>
+                HTML (HyperText Markup Language) es el lenguaje estándar para crear y estructurar contenido en la web. 
+                Utiliza etiquetas para definir elementos como textos, imágenes, enlaces, tablas y más. Es el fundamento 
+                de todas las páginas web y se complementa con CSS y JavaScript para crear experiencias completas.
+            </p>
+            <h2>¿Cómo se programa en HTML?</h2>
+            <p>
+                Programar en HTML es sencillo. Solo necesitas un editor de texto para escribir etiquetas como 
+                <code>&lt;html&gt;</code>, <code>&lt;body&gt;</code>, <code>&lt;h1&gt;</code>, y otras, que estructuran el contenido.
+            </p>
+        </section>
+        <h2>Ejemplos en una tabla</h2>
+        <table>
+            <tr>
+                <th>Descripción</th>
+                <th>Ejemplo</th>
+            </tr>
+            <tr>
+                <td>Encabezados</td>
+                <td><img src="https://via.placeholder.com/100x50?text=H1+H2" alt="Ejemplo de encabezados"></td>
+            </tr>
+            <tr>
+                <td>Parrafos</td>
+                <td><img src="https://via.placeholder.com/100x50?text=Parrafos" alt="Ejemplo de párrafos"></td>
+            </tr>
+            <tr>
+                <td>Imágenes</td>
+                <td><img src="https://via.placeholder.com/100x50?text=Imagen" alt="Ejemplo de imágenes"></td>
+            </tr>
+        </table>
+        <button onclick="window.open('https://www.w3schools.com/html/', '_blank')">Ir a W3Schools sobre HTML</button>
+        <button><a href="inicio.html"> Volver al inicio </a> </button>
+    </main>
+</body>
+</html>

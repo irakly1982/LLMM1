@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducción a SVG</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #f97316;
+            color: white;
+            padding: 10px 0;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        svg {
+            width: 100px;
+            height: 100px;
+        }
+        button {
+            background-color: #f97316;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #ea580c;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>¿Qué es SVG y cómo se utiliza?</h1>
+    </header>
+    <main>
+        <section>
+            <p>
+                SVG (Scalable Vector Graphics) es un formato basado en XML para crear gráficos vectoriales en la web. 
+                Estos gráficos son escalables, lo que significa que pueden redimensionarse sin perder calidad, y son ideales 
+                para logotipos, diagramas e ilustraciones interactivas.
+            </p>
+            <h2>¿Cómo se utiliza SVG?</h2>
+            <p>
+                SVG puede incluirse directamente en el HTML con etiquetas como <code>&lt;svg&gt;</code>, o importarse como 
+                un archivo independiente. Se pueden crear formas como rectángulos, círculos y líneas, y añadirles colores 
+                y estilos mediante atributos o CSS.
+            </p>
+        </section>
+        <h2>Ejemplos en una tabla</h2>
+        <table>
+            <tr>
+                <th>Descripción</th>
+                <th>Ejemplo</th>
+            </tr>
+            <tr>
+                <td>Rectángulo</td>
+                <td>
+                    <svg>
+                        <rect width="80" height="50" fill="blue" />
+                    </svg>
+                </td>
+            </tr>
+            <tr>
+                <td>Círculo</td>
+                <td>
+                    <svg>
+                        <circle cx="50" cy="50" r="30" fill="green" />
+                    </svg>
+                </td>
+            </tr>
+            <tr>
+                <td>Línea</td>
+                <td>
+                    <svg>
+                        <line x1="10" y1="10" x2="90" y2="90" stroke="red" stroke-width="2" />
+                    </svg>
+                </td>
+            </tr>
+        </table>
+        <button onclick="window.open('https://www.w3schools.com/graphics/svg_intro.asp', '_blank')">Ir a W3Schools sobre SVG</button>
+        <button><a href="inicio.html"> Volver al inicio </a></button>
+    </main>
+</body>
+</html>
